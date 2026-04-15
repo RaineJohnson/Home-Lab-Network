@@ -322,7 +322,7 @@ Building this lab taught me more about networking fundamentals than any coursewo
     └── iot-monitor.sh                 # Log new IoT device connections and flag unknown MACs
 ```
 
-> ⚠️ **Note:** All config files in this repo are sanitized — WAN IPs, VPN keys, certificates, and passwords have been redacted or replaced with placeholders. Never commit secrets to a public repository.
+> ⚠️ **Note:** All config files in this repo are sanitized — WAN IPs, VPN keys, certificates, and passwords have been redacted or replaced with placeholders.
 
 ## Technologies
 
