@@ -65,7 +65,7 @@ Primary workstations and personal devices. Full outbound internet access with DN
 | 10.10.10.1 | pfSense (gateway) | VLAN 10 interface |
 | 10.10.10.10 | Primary workstation (Desktop — Ubuntu 24.04) | Static DHCP lease, SSH enabled |
 | 10.10.10.11 | Laptop (Framework 13 — Fedora 40) | Static DHCP lease |
-| 10.10.10.12 | MacBook Air (macOS — daily driver) | Static DHCP lease |
+| 10.10.10.12 | Desktop PC (Windows — daily driver) | Static DHCP lease |
 | 10.10.10.100–.200 | DHCP pool | Guest devices, phones |
 
 **Switch port assignments:** Ports 2–5 on the USW-16-POE are tagged VLAN 10. The U6 Lite AP on port 14 (PoE) carries both VLAN 10 (`RAINE-TRUSTED`) and VLAN 30 (`RAINE-IOT`) SSIDs.
